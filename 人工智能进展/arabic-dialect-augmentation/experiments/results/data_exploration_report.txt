@@ -1,0 +1,25 @@
+==================================================
+DATA EXPLORATION REPORT
+==================================================
+
+MADAR Dataset:
+  Total samples: 100
+  Train: 70
+  Val: 15
+  Test: 15
+
+QADI Dataset:
+  Total samples: 500
+  Train: 400
+  Val: 50
+  Test: 50
+
+QADI Label Distribution:
+  Saudi_Arabia: 59
+  Palestine: 58
+  Jordan: 53
+  UAE: 51
+  Morocco: 50
+  Syria: 47
+  Lebanon: 46
+  Egypt: 36

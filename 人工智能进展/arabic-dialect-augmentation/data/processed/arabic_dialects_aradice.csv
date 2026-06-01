@@ -1,0 +1,9 @@
+Dataset,Size,Link
+ArabicMMLU-egy,"14,459",https://huggingface.co/datasets/QCRI/AraDICE-ArabicMMLU-egy
+ArabicMMLU-lev,"14,459",https://huggingface.co/datasets/QCRI/AraDICE-ArabicMMLU-lev
+AraDiCE-Culture ,180,https://huggingface.co/datasets/QCRI/AraDiCE-Culture
+BoolQ,892,https://huggingface.co/datasets/QCRI/AraDiCE-BoolQ
+OpenBookQA (OBQA),500,https://huggingface.co/datasets/QCRI/AraDiCE-OpenBookQA
+PIQA,"1,838",https://huggingface.co/datasets/QCRI/AraDiCE-PIQA
+TruthfulQA,780,https://huggingface.co/datasets/QCRI/AraDiCE-TruthfulQA
+Winogrande,"1,267",https://huggingface.co/datasets/QCRI/AraDiCE-WinoGrande
